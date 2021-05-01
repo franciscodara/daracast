@@ -17,7 +17,7 @@
   <a href="#memo-Licença">Licença</a>
 </p>
 
-
+![print-daracast](https://user-images.githubusercontent.com/29130959/116767323-df216c00-aa05-11eb-9e20-d71c0f96eef4.png)
 
 ## :page_facing_up: Descrição
 Um projeto de estudo de front-end com React e NextJS.
@@ -42,8 +42,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [x] Opção de ir para o anterior podcast.
 - [x] Opção de Loop.
 - [x] Opção para embaralhar.
-
-![print-daracast](https://user-images.githubusercontent.com/29130959/116767323-df216c00-aa05-11eb-9e20-d71c0f96eef4.png)
 
 ## :closed_book: Instalação
 
