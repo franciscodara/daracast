@@ -67,6 +67,11 @@ $ npm run dev
 ```
 
 
+## Futuras implementações
+
+- Responsividade;
+- Dark mode;
+- PWA.
 ## :memo: Licença
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
