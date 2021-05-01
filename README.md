@@ -54,7 +54,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 $ git clone https://github.com/franciscodara/daracast.git
 
 
-# Vá para a pasta podcastr-nlw05
+# Entre na pasta daracast
 $ cd daracast
 
 # Instale as dependências
