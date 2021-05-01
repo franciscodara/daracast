@@ -1,6 +1,5 @@
 <p align="center">
-  <img![daracast-logo](https://user-images.githubusercontent.com/29130959/116767942-98ce0c00-aa09-11eb-9b08-949f30be2548.png)
- src="./.github/assets/logo.svg"/>
+  <img src="https://user-images.githubusercontent.com/29130959/116767942-98ce0c00-aa09-11eb-9b08-949f30be2548.png" />
 </p>
 
   
