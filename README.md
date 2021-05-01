@@ -1,11 +1,12 @@
 <h1 align="center">
-  <img width="173px" src="/logo.svg" />
+  
   <br />
   <a href="https://www.linkedin.com/in/franciscodara">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Francisco%20Dara-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
   </a>
 
 
+___
 
 <p align="center">
   <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
