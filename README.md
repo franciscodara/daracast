@@ -3,7 +3,7 @@
 </p>
 
 
-<p>
+<p aling="center">
 <a href="https://www.linkedin.com/in/franciscodara">
   <img alt="Linkedin" src="https://img.shields.io/badge/-Francisco%20Dara-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
 </a>
