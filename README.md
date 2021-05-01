@@ -1,12 +1,12 @@
-<p align="center">
+<p align="center" width="200px"> 
   <img src="https://user-images.githubusercontent.com/29130959/116767942-98ce0c00-aa09-11eb-9b08-949f30be2548.png" />
-</p>
+
 
   
 <a href="https://www.linkedin.com/in/franciscodara">
   <img alt="Linkedin" src="https://img.shields.io/badge/-Francisco%20Dara-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
 </a>
-
+</p>
 
 ___
 
